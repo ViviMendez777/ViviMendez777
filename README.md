@@ -1,5 +1,5 @@
 ## Hi I'm VIVIANA MENDEZ 👋
-
+<img src="https://raw.githubusercontent.com/ViviMendez777/IMAGENES/main/black.png" alt="Black image" width="600"/>
 <!--
 **ViviMendez777/ViviMendez777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
